@@ -1,6 +1,6 @@
 # Preference_Matching
 
-The project is still under development in a private repository. Finaly code will be published once the project is complete. 
+The project is still under development.
 
 ## Summary
 

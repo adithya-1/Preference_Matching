@@ -1,0 +1,550 @@
+Id,Select Section,"Please specify your broad areas of interest (keywords only) for the final project (e.g., games, reinforcement learning, computer vision, natural language processing, etc.) in ranked order of preferenc","Do you already have one or more specific project ideas? If so, please briefly describe them. "
+62,CS4100,reinforcement learning,no
+63,CS4100,"1. Computer vision
+2. Reinforcement learning
+3. Games
+4. Natural Language Processing",N/A
+68,CS4100,"Reinforcement learning, Natural language processing, Transfer learning ",None
+70,CS4100,"Reinforcement learning, neural networks, large language models",n/a
+72,CS4100,"Games, Natural Language Processing, Deep Learning","An evolutionary/genetic algorithm playing a recreation of a ""pokemon"" game, already done, but I feel it would be a fun thing especially to get a live view on the model as it ""learns"" through reward mechanisms."
+79,CS4100,"1. Reinforcement Learning
+2. Natural Language Processing
+3. Computer Vision
+4. Adversarial ML","Long term planning using reinforcement learning in a simulated 3D environment. This would be similar to the OpenAI tag game, where agents would be trained to interact with and pursue rewards in a 3D space. There would be some primary objective that a multi-agent system would need to collaborate on to achieve. A lighthearted example would be something like Minecraft, where success/survival involves producing food, shelter, resources, and so on over an extended number of in-game days. A more important real-world example could be pedestrian or motor traffic."
+85,CS4100,"reinforcement learning, computer vision",
+86,CS4100,"NLP, reinforcement learning, games, computer vision",
+87,CS4100,"Computer vision
+3D computer graphics
+2D/3D Generation
+Reinforcement Learning",
+94,CS4100,"Reinforcement learning, computer vision, natural language processing",
+95,CS4100,"Games, computer vision, natural language processing, reinforcement learning",
+96,CS4100,"Natural language processing, deep learning, computer vision","Something to do with NPL and LangChain, but nothing too specific, just a broad idea. "
+101,CS4100,"Games, Music Sentiment Analysis, ",
+102,CS4100,"reinforcement learning, AI in healthcare, natural language processing, games, computer vision, ","spam email detection, chatbot, sentiment analysis, AI for healthcare"
+103,CS4100,"Reinforcement learning, computer vision, games, natural language processing",Nope!
+104,CS4100,"Human computer interaction
+i guess anything else",n/a
+110,CS4100,"computer vision
+natural language processing
+reinforcement learning
+games",No
+111,CS4100,"natural language processing, reinforcement learning, games",
+113,CS4100,"In order of preference: 
+Reinforcement learning, computer vision, games, NLP",N/a
+115,CS4100,"games
+reinforcement learning
+computer vision
+natural language processing","Thought about book recommendation based on word contents for writing style instead of genre but not sure if it fits this project well; separate idea, maybe something with research papers? More interested in games and reinforcement learning but don't have ideas for that yet"
+130,CS4100,"reinforcement learning, computer vision, games, natural language processing, machine translation.","Shelf stocking simulations for grocery store (optimal products based on customer, time of day, etc)"
+133,CS4100,"natural language processing, computer vision, reinforcement learning",-
+138,CS4100,"Games, computer vision, reinforcement learning","One idea was some sort of recommendation system that uses AI to analyze preferences and genres and provide good recommendations. For games, I was thinking of some wavelike monster defense game where the monsters get increasingly more intelligent "
+152,CS4100,"Games
+Reinforcement Learning 
+Computer Vision
+Natural Language Processing ",
+158,CS4100,"1. Natural language processing, 2. Recommendation Systems, 3. Reinforcement Learning",Recommendation system: Recommends something based on the person's history. 
+159,CS4100,"1. Natural Language Processing 
+2. Recommendation Systems
+3. Reinforcement Learning","Storytelling chatbot, Recommendation system based on interests "
+166,CS4100,"1. games
+2. nl processing
+3. reinforcement learning",i am interested in puzzle games or a language related program
+176,CS4100,"Reinforcement learning, NLP, Games, genetics",No
+183,CS4100,"Reinforcement learning, computer vision, games, neural networks",No
+184,CS4100,"I think reinforcement learning would be pretty cool, but I'm doing for anything AI related.",
+186,CS4100,"games, reinforcement learning, natural language processing","One project idea I had is to try to develop an engine for chess or fog of war chess. Another idea I have is an AI tool to assist with coding, like GitHub Copilot. "
+192,CS4100,"natural language processing, computer vision, reinforcement learning, games",
+194,CS4100,"1. Computer Vision
+2. Reinforcement learning
+3. Natural language processing ",
+206,CS4100,"Generative AI, Reinforcement Learning , Natural Language Processing, Genetic Algorithms",N/A
+208,CS4100,"Games, reinforcement learning, generative AI, natural language processing",I want to create a project similar Multi-Agent Hide and Seek from open-AI where opposing teams develop strategies and adapt towards the actions of others  
+212,CS4100,"Reinforcement learning, natural language processing, generative AI, image recognition",Nothing specific
+223,CS4100,"1. Games 
+2. Reinforcement Learning
+3. Genetic Algorithms
+4. Natural Language Processing",Literature (also known as Canadian Fish) Card Game AI 
+225,CS4100,"Computer vision, Deep Learning, Games, Reinforcement Learning, Natural Language Processing, Adversarial ML, Genetic Algorithms. ",
+226,CS4100,"games, adversarial ML, MDP, nlp, computer vision, deep learning","I think it would be cool to do something related to cybersecurity and AI, though unsure of what type of projects could stem from that. "
+227,CS4100,"reinforcement learning, games, natural language processing",
+229,CS4100,"1. Games,
+2. MDPs,
+3. Reinforcement Learning,
+4. Adversarial ML,
+5. NLP,
+6. Computer Vision
+",
+233,CS4100,"games, level design, behavior design, computer vision, terrain navigation, reinforcement learning",No
+238,CS4100,"1. Generative AI
+2. Natural Language Processing (NLP)
+3. Reinforcement Learning
+4. Computer Vision
+5. Neural Nets
+6. Transfer Learning
+7. Automated Data Extraction / Information Retrieval",No
+246,CS4100,"machine learning, neural networks, computer vision, reinforcement learning, object detection",Algorithm that can predict how old a tree is from its stump
+247,CS4100,"Machine learning, big data, neural networks, computer vision, reinforcement learning",Algorithm that can predict how old a tree is based off its stump
+259,CS4100,"reinforcement learning, natural language processing, deep learning",
+266,CS4100,"most interested -> least interested: natural language processing, deep learning, games, reinforcement learning, computer vision",
+269,CS4100,"natural language processing, computer vision, reinforcement learning",
+274,CS4100,"genetic algorithms, reinforcement learning","timeslot scheduling based on preferences, how fast genetic algorithms react to change in environment"
+277,CS4100,"Games, Reinforcement Learning, Natural Language Processing, Computer Vision",No
+278,CS4100,"Genetic algorithms, reinforcement learning","Scheduling problem -- idea to reduce the overcrowding in Marino. People submit their weekly schedules (similar to When2meet) and they also submit how many times they want to go to the gym per week. Using genetic algorithms, we find a close-to-ideal solution (a list of time slots for each individual) where people can go to the gym when they're free and they also do not have to wait for any of the machines / equipment for extended periods of times. This can be a makeshit solution while Northeastern builds more infrastructure to support the influx of students."
+281,CS4100,"games, artwork, genetic algorithms",nothing in particular
+282,CS4100,"1. Natural Language Processing
+2. Reinforcement Learning
+3. Computer Vision
+4. Games","NLP model which is able to take textbook chapters, lectures, or video transcriptions and turn them into productive flashcards for students. "
+298,CS4100,"natural language proccesing -> reinforcement learning -> machine learning, deep learning,","Create an AI that guides users through Internal Family Systems (IFS) therapy, using natural language processing to recognize parts and provide structured sessions, specifically based off the framework of Self-Therapy by Jay Earley"
+299,CS4100,"1. Human-AI Interaction
+2. AI In Healthcare
+3. NLP
+4. AI for Social Good
+5. AI for Education","An interactive recommendation system for movies/music, symptom checker that provides users with diagnoses based on their symptoms, healthcare chatbot for mental health support, nlp-powered assistant that helps users in drafting or refining content."
+308,CS4100,"Recommendation models, deep learning, reinforcement learning, genetic algorithms",
+42,"CS5100 (Sec A - MW, 2:50 - 4:30)","1) Recommendation Systems 
+2) Natural Language Processing 
+3) Deep Learning 
+4) Reinforcement Learning ",Movie Recommendation Systems 
+44,"CS5100 (Sec A - MW, 2:50 - 4:30)",1. Computer vision 2. reinforcement learning 3. Natural language processing 4. Games,
+45,"CS5100 (Sec A - MW, 2:50 - 4:30)","Computer Vision, RL, NLP, games",
+52,"CS5100 (Sec A - MW, 2:50 - 4:30)","Reinforcement learning, robotics, computer vision, games, NLP",NA
+56,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing, Games",Personalised Recommendation Systems by analysing user behaviour and preferences.
+59,"CS5100 (Sec A - MW, 2:50 - 4:30)","reinforcement learning, recommendation systems, machine learning, natural language processing, computer vision",1. Music recommendation system; 2. Real estate price prediction; 3. Stock price prediction
+60,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Natural language processing
+2. Deep learning
+3. Recommender systems","Open to ideas, but I was thinking something to do with news articles or drug discovery"
+61,"CS5100 (Sec A - MW, 2:50 - 4:30)","LLM, RAG, NLP","Smart diagnosis platform : This project focuses on enhancing the automotive after-sales service domain by integrating the open-source large language model with the advanced vector database. We aim to improve the quality and relevance of answers using Retrieval-Augmented Generation (RAG) techniques. The solution involves data collection from enterprise systems, data processing with PDF and Markdown tools, and building a knowledge base that supports efficient retrieval. We’ll develop a question-answering system optimized with ipex-llm for better performance on CPUs, and deploy it with a user-friendly interface built with React/Vue.js and Flask/Django for backend services."
+65,"CS5100 (Sec A - MW, 2:50 - 4:30)","reinforcement learning, natural language processing, computer vision, games","Early detection of diseases, application of AI in healthcare"
+66,"CS5100 (Sec A - MW, 2:50 - 4:30)","Ai-in-education, Deep learning, Reinforcement Learning, swarm intelligence",Analysing Child behaviour by analysing multimodal sensory data using Reinforcement Learning
+69,"CS5100 (Sec A - MW, 2:50 - 4:30)","
+Computer Vision
+Deep Learning 
+NLP","Deforestation detection, Oil spill Detection Using deep learning"
+73,"CS5100 (Sec A - MW, 2:50 - 4:30)","Computer Vision, Generative Ai",NA
+74,"CS5100 (Sec A - MW, 2:50 - 4:30)"," reinforcement learning, computer vision",no
+75,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Games
+2. Healthcare prediction using AI
+3. Reinforcement learning
+4.NLP",
+80,"CS5100 (Sec A - MW, 2:50 - 4:30)",computer vision,
+81,"CS5100 (Sec A - MW, 2:50 - 4:30)",1. Computer vision; 2. Reinforcement Learning; 3. Natural language processing; 4. games,
+83,"CS5100 (Sec A - MW, 2:50 - 4:30)","games, recommendation algorithms, sentiment analysis, reinforcement learning",
+84,"CS5100 (Sec A - MW, 2:50 - 4:30)","natural language processing, games, computer vision",
+88,"CS5100 (Sec A - MW, 2:50 - 4:30)","NLP, financial applications, reinforcement learning, fraud detection, sentiment analysis","I’m open to project ideas, but I’m not certain about the ideas I currently have. "
+91,"CS5100 (Sec A - MW, 2:50 - 4:30)","reinforcement learning, natural language processing, computer vision, data visualization",Interactive visual project showing different ML models/optimizers by animating the time it takes to find a given function given random points in the function. 
+92,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing
+Computer Vision
+AI in Healthcare industry
+Reinforcement Learning
+AI in cybersecurity",Exploring the scope of AI in quantum computing and in the field of Post Quantum Cryptography - Identifying various scenerios where AI can be used in the quantum computing which is the future of computing and also researching about how AI can be used to make a prospect post quantum crypto ready.
+93,"CS5100 (Sec A - MW, 2:50 - 4:30)","computer vision, reinforcement learning, natural language processing, LLM, games","I wanna improve something about mixing computer vision and healthcare area like detection of brain tumor, cancer or diabetic retinopathy"
+97,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing
+Games
+Reinforcement Learning
+Computer Vision","Anything LLM related is of interest to me, but I understand if this is outside the scope of this class."
+105,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. NLP- LLMS
+2. DEEP LEARNING - NEURAL NETWORKS
+3. FEATURE REDUCTION
+4. COMPUTER VISION",
+109,"CS5100 (Sec A - MW, 2:50 - 4:30)","deep learning, healthcare, machine learning, reinforcement learning",
+121,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. AutoML for Model Optimization  
+2. Reinforcement Learning for Autonomous Systems  
+3. Transformer Models in Natural Language Processing  
+4. Semi-Supervised Learning  
+5. Reinforcement Learning for Autonomous Systems",N/A
+125,"CS5100 (Sec A - MW, 2:50 - 4:30)"," Generative AI,  LLMs, Natural language processing, any other","Custom Academic Summary Generator, AI-Powered Code Assistant, AI Note-Taker and Converter"
+126,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural language processing, speech and audio processing, generative and predictive models, computer vision, reinforcement learning",
+128,"CS5100 (Sec A - MW, 2:50 - 4:30)","Finance, stock, games, transportation","I was thinking about stock analysis, but I don't know a lot about AI. I was not sure about what data to feed AI for stock analysis. There was a past project that used sentiment and public opinions which is interesting. I was thinking about using ratios (fundamental analysis) or technical analysis or both, but I have a hard time to decide with which kind of data and how many types of data to feed to AI."
+132,"CS5100 (Sec A - MW, 2:50 - 4:30)","Games, Computer Vision, NLP",
+135,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing, Reinforcement Learning, Deep Learning.
+",A personalized preventive healthcare system that constantly monitors and senses various metrics to evaluate human health and suggest the right habits to completely bring down reliance on pharmaceutical drugs.
+136,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing, Machine Learning, Deep Learning, Data Science, Reinforcement Learning",
+139,"CS5100 (Sec A - MW, 2:50 - 4:30)","reinforcement learning
+computer vision
+natural language processing",
+141,"CS5100 (Sec A - MW, 2:50 - 4:30)","Computer vision, *anything* that could be hardware related, NLP, games",No
+142,"CS5100 (Sec A - MW, 2:50 - 4:30)","Computer Vision, Games, Robotics",NA
+147,"CS5100 (Sec A - MW, 2:50 - 4:30)","Robotics path planning, Reinforcement learning , SLAM",Robot path planning using an algorithm. 
+149,"CS5100 (Sec A - MW, 2:50 - 4:30)","games,reinforcement learning",
+153,"CS5100 (Sec A - MW, 2:50 - 4:30)",Genetic algorithm ,Not really 
+155,"CS5100 (Sec A - MW, 2:50 - 4:30)",Genetic Algorithms,"AI in sports, more specific in cricket"
+156,"CS5100 (Sec A - MW, 2:50 - 4:30)",Natural Language Processing,
+157,"CS5100 (Sec A - MW, 2:50 - 4:30)",Natural Language Processing,
+160,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing
+Reinforcement Learning
+Deep Learning
+Neural Networks",No
+161,"CS5100 (Sec A - MW, 2:50 - 4:30)","Games (Possibly Procedural Generation?), Genetic Algorithms, Automation, Language Processing",
+162,"CS5100 (Sec A - MW, 2:50 - 4:30)","NLP, CV, DL, Federated Learning, Transfer Learning, MLSys",Interpretability / Fairness / Explainability direction or robustness
+164,"CS5100 (Sec A - MW, 2:50 - 4:30)","Reinforcement learning, Computer Vision, Generative AI, Path Planning, Gaming, Creativity, Encryption","Improving the Red-Eye Path, Explainable Creative AI, Robotic Shelving in a Warehouse"
+169,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Natural Language Processing
+2. Neural Architectures
+3. Dimensionality Reduction
+4. Object Detection",No
+170,"CS5100 (Sec A - MW, 2:50 - 4:30)","reinforcement learning, games, natural language processing, computer vision",I am interested in using reinforcement learning to predict stock prices or predict the probability of next Fed Fund Rate cut/hike. Also interested in reinforcement learning applications in movie/book recommendations.
+171,"CS5100 (Sec A - MW, 2:50 - 4:30)","Games
+Computer Vision
+Natural Language Processing
+Reinforcement Learning",
+172,"CS5100 (Sec A - MW, 2:50 - 4:30)","Music, Computer Vision, Natural Language Processing. ","Would like to work on something music related. If computer vision, my friend and I had an idea to develop a music practice/teaching app where the app will be able to identify student postures through image they submitted and whether it meets teacher's requirements. "
+173,"CS5100 (Sec A - MW, 2:50 - 4:30)","music-related,  computer vision, natural language processing",My friend and I have discussed about the idea of developing a music practice app that might need to apply computer vision to identify the students posture while practicing so that they can correct their sitting positions or hand/elbow position without the teacher being around.
+175,"CS5100 (Sec A - MW, 2:50 - 4:30)","MDPs and Reinforcement Learning
+Genetic Algorithms",
+177,"CS5100 (Sec A - MW, 2:50 - 4:30)","Reinforcement learning, Computer Vision, Generative AI, Path Planning, Gaming, Creativity, Encryption","Improving the Red-Eye Path, Explainable Creative AI, Robotic Shelving in a Warehouse"
+178,"CS5100 (Sec A - MW, 2:50 - 4:30)","NLP
+",Using NLP or Transformers to predict the behavior of genetic data; it could be used on various things.
+179,"CS5100 (Sec A - MW, 2:50 - 4:30)","Reinforcement learning, Computer Vision, Generative AI, Path Planning, Gaming, Creativity",1. Improving the Red-Eye Path 2. Explainable Creative AI 3. Robotic Shelving in a Warehouse 4. Predictive Analysis for e-commerce websites 5. Predicting company's stock price
+180,"CS5100 (Sec A - MW, 2:50 - 4:30)","Reinforcement learning, Computer Vision, Generative AI, Path Planning, Gaming, Creativity,Encryption","Improving the Red-Eye Path, Explainable Creative AI, Robotic Shelving in a Warehouse"
+182,"CS5100 (Sec A - MW, 2:50 - 4:30)","I am interested in Deep Learning, Natural Language Processing, Machine Learning, and Computer Vision.","I am exploring project ideas and considering building a machine learning model that predicts outcomes, such as whether a person has diabetes or future stock prices. The project would feature a front-end GUI that collects user input and stores it in a CSV file in the backend. Another idea is to develop a facial recognition model using a webcam or uploaded video files. I’m also open to exploring additional project concepts to expand my skill set."
+185,"CS5100 (Sec A - MW, 2:50 - 4:30)",Robot Path Planning.,"Robot Path Planning, Slam"
+187,"CS5100 (Sec A - MW, 2:50 - 4:30)","GenAI
+NLP
+Machine Learning",
+188,"CS5100 (Sec A - MW, 2:50 - 4:30)","Genetic algorithm, NLP, computer vision, Reinforcement learning. ",
+189,"CS5100 (Sec A - MW, 2:50 - 4:30)","Genetic Algorithm 
+Natural Language Processing 
+Computer Vision 
+Reinforcement Learning ",Using genetic algorithm to organize city planning 
+190,"CS5100 (Sec A - MW, 2:50 - 4:30)","Genetic algorithm, nlp, cv, reinforcement learning",Using genetic algorithms to optimise city planning based on different efficiency factors
+195,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Natural Language Processing 
+2. Machine Learning 
+3. LLMs",NA
+197,"CS5100 (Sec A - MW, 2:50 - 4:30)","Bio-inspired Optimizers, Computer Vision, Natural Language Processing, Reinforcement Learning",
+199,"CS5100 (Sec A - MW, 2:50 - 4:30)","Computer Vision, Deep Learning, Machine Learning",
+200,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing, Computer Vision","“Intelligent Question-Answering System Using Retrieval-Augmented Generation (RAG) with Meta-LLaMA-3-8b and Vector-Based Similarity Search”  This project involves designing and implementing a robust RAG architecture for real-time, contextually accurate question answering. Leveraging Meta-LLaMA-3-8b for the generative component, along with HuggingFace embeddings and FAISS indexing for similarity searches, the system efficiently retrieves relevant content from a data lake powered by MongoDB Atlas. Additionally, we are exploring the potential integration of GraphRAG to enhance response accuracy through advanced graph-based retrieval techniques."
+202,"CS5100 (Sec A - MW, 2:50 - 4:30)","Deep Learning, LLM's, Natural Language Processing, Genetic Algorithm, Computer Vision",
+204,"CS5100 (Sec A - MW, 2:50 - 4:30)","Retrieval-Augmented Generation (RAG), GraphRAG, Natural Language Processing (NLP)",Application of RAG or GraphRAG. Retrieval-Augmented Generation Q&A using LLMs
+205,"CS5100 (Sec A - MW, 2:50 - 4:30)","1) LLMs - Natural Language Processing
+2) Deep Learning
+3) Genetic Algorithms","My project idea is to create an AI model that can watch a cricket video clip and generate commentary with the right emotions. The AI will identify key moments, like wickets or boundaries, and produce commentary that not only describes what’s happening but also reflects the emotion of the moment. For example, if 5 runs are needed from 1 ball and a six is hit, the AI will generate excited commentary, possibly using capital letters to show the intensity.  This project focuses on creating commentary from pre-recorded video clips, making it more manageable within the scope of a final project."
+213,"CS5100 (Sec A - MW, 2:50 - 4:30)","computer vision, reinforcement learning, medical image processing",
+214,"CS5100 (Sec A - MW, 2:50 - 4:30)","Deep learning, computer vision, Natural language processing","An AI-enhanced Advanced Driver Assistance System that uses deep learning to improve various features such as lane-keeping, adaptive cruise control, and collision avoidance."
+216,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Deep Learning/ Machine Learning
+2. Genetic Algorithm
+3. Games
+4. Natural Language Processing",
+217,"CS5100 (Sec A - MW, 2:50 - 4:30)","From highest to least: Reinforcement learning, AI in finance, AI in nutrition, Games, Prediction through analytics, natural language processing.","Improve traffic in the most time and cost effective way, AI develops a personal meal plan based on one's dietary restrictions needs, and takes into account budgeting and nearby grocery stores, optimizing real estate market for buyers based on location."
+219,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing, Retrieval-Augmented Generation, Large Language Model,  Reinforcement Learning",
+220,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing, Retrieval Augmented Generation, Large Language Models,  Reinforcement Learning.",
+221,"CS5100 (Sec A - MW, 2:50 - 4:30)","Reinforcement Learning, Robotics, Autonomous Vehicle, Computer Vision",
+222,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing, Retrieval-Augmented Generation, Large Language Models,  Reinforcement Learning",
+224,"CS5100 (Sec A - MW, 2:50 - 4:30)","reinforcement learning, games",
+234,"CS5100 (Sec A - MW, 2:50 - 4:30)","Computer Vision, Games reinforcement, NLP.",Digitalizing paper bills to a tabulated excel sheet. This can be used as a feature in a budgeting application where we can directly take a photo of a bill and then it is converted to an excel with the item name and price 
+241,"CS5100 (Sec A - MW, 2:50 - 4:30)","Games, NLP, Reinforcement Learning",N/A
+242,"CS5100 (Sec A - MW, 2:50 - 4:30)","1st. LLM
+2nd. computer vision
+3rd. NLP
+4th. Reinforcement Learning
+5th. Games",
+243,"CS5100 (Sec A - MW, 2:50 - 4:30)","LLM
+Computer Vision
+Natural Language Processing
+Reinforcement Learning 
+Games
+",
+253,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Natural Language Processing
+2. Computer Vision
+3. Predictive Analytics",
+254,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing, Retrieval-Augmented Generation, Large Language Model,  Reinforcement Learning",
+256,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Neural Network
+2. Reinforcement learning 
+3. Machine Learning
+4. Natural language processing
+5. Games",
+257,"CS5100 (Sec A - MW, 2:50 - 4:30)","Social Network Analysis, Natural Language Processing, Sentiment Analysis","Social Media Impact on Mental Health: Investigate how different types of interactions on social networks (e.g., likes, comments, shares) affect users' mental health or well-being. Possibly examine correlations between user behavior and sentiment in online communities."
+258,"CS5100 (Sec A - MW, 2:50 - 4:30)","Machine Learning, AI in cybersecurity ",-
+260,"CS5100 (Sec A - MW, 2:50 - 4:30)","computer vision , Natural language processing , Foundations of Artificial Intelligence ",
+261,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Deep learning and ML(Specifically I need to learn about uses of LLM and RAGs) 
+2. NLP
+3. Gaming
+
+","I wish to make something which has a good/targets a valid use case. Further, my aim for this course is that by the end, I am able to understand and use technologies with LLMs and RAGs."
+262,"CS5100 (Sec A - MW, 2:50 - 4:30)","Machine Learning/Deep Learning, Natural Language Processing, Computer Vision",
+264,"CS5100 (Sec A - MW, 2:50 - 4:30)","ML/DL
+Natural language processing
+Reinforcement Learning","I have previously had some experience in reinforcement learning. I would like to work on a project that would help serve the community and would like to gain more knowledge in areas that covers Reinforcement Learning, RAGs, LLMs, Deep Learning. "
+265,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. ML/DL 
+2.NLP
+3. IRS","want to create some project in to learn about LLMS, NLP, ML, Had previously developed basic ml projects.  "
+267,"CS5100 (Sec A - MW, 2:50 - 4:30)",music recommendations (e.g. Spotify algorithm),"I kinda have my heart set on using the Spotify API to try and create an AI music-recommendation algorithm, potentially building dynamic ""profiles"" of users and songs to build associations between listener tastes and identify music that people are likely to enjoy. I discussed it a bit with Lingjun Song since we both studied music and are in the Align program."
+268,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing and Generation, LLM, Chatbot",
+270,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Gen-AI
+2. NLP
+3. Machine Learning Algorithms",
+271,"CS5100 (Sec A - MW, 2:50 - 4:30)",Finance > Natural Language Processing > Reinforcement Learning > Computer Vision,No. But I can do forex trading strategy development based on history data.
+272,"CS5100 (Sec A - MW, 2:50 - 4:30)","Reinforcement Learning, Natural Language Processing, Computer Vision.","From a meta data of any university ( rank, location, prof (experience, research area, course ), job opp, ra opp, ta opp, college events, career fairs, etc), A student enters a prompt indicating his/her preference and should get a list of unis with a matching factor, pros and cons."
+273,"CS5100 (Sec A - MW, 2:50 - 4:30)","Games
+Natural Language Processing
+Computer Vision",
+275,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Games
+2. NLP
+",    
+276,"CS5100 (Sec A - MW, 2:50 - 4:30)",nlp,recommendation algorithm
+279,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural language processing
+Reinforcement learning",
+280,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing 
+Reinforcement Learning",
+283,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Semantic Image Segmentation using Deep 
+2. Deep Reinforcement Learning for robotics manipulation
+","Yes I have a few ideas. I wish to work on semantic image segmentation using deep neural network architectures like U-Net, Segformer, mask former, etc. Another idea is working on robot manipulators using deep RL algorithms like DQN. "
+284,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Reinforcement Learning on a Robotic Manipulator
+2. Semantic Segmentation using Deep Networks",N/A
+285,"CS5100 (Sec A - MW, 2:50 - 4:30)","1) Deep Reinforcement Learning for Robot Manipulator
+2) Semantic segmentation using UNET","1) Deep RL for Robotic Manipulator, I am thinking about creating a virtual simulation of robotic manipulator which will be trained for pick and place task. Basically, the robot would do sorting amounts the placed object on the table and then it will segregate them accordingly. This would be done by training the robot using deep RL techniques.  2) In semantic segmentation project I want to do segmentation using UNET, Segformer, SETR."
+287,"CS5100 (Sec A - MW, 2:50 - 4:30)","adversarial learning, neural networks, natural language processing",
+289,"CS5100 (Sec A - MW, 2:50 - 4:30)","code LLMs
+geometric deep learning
+3d diffusion
+web-based agents
+gameplay agents
+","yes- improving some code tooling using LLMs a la https://github.com/GammaTauAI/opentau (previous final project), web agent to navigate websites like https://osu-nlp-group.github.io/SeeAct/, developing an agent to play older video games with complex search spaces via genetic algorithms or RLHF"
+290,"CS5100 (Sec A - MW, 2:50 - 4:30)","LLM, HCI, Deep Learning, NLP, Reinforcement learning, Computer Vision",Combining LLM with HCI to help elderly people catch tech evolution easier.
+292,"CS5100 (Sec A - MW, 2:50 - 4:30)","games, computer vision, reinforcement learning, automation","Creating an AI bot that is able to beat a specific level of a single player game (ie platformer), Create a bot that is able to parse through emails and sort the emails into folders and spam, create a program that automatically processes incoming email and summarizes them."
+293,"CS5100 (Sec A - MW, 2:50 - 4:30)",natural language processing,Algorithm Generator - user will enter chosen use case as a natural language input it will want to solve and the output will be a suggestive solution either as a code or written solution. 
+294,"CS5100 (Sec A - MW, 2:50 - 4:30)",Natural language processing,Problem Statement Solver - Input will be a problem statement and the output will be pseudocode to solve the problem
+295,"CS5100 (Sec A - MW, 2:50 - 4:30)",natural language processing,"Code Logic Builder: The application will accept user input in the form of text that specifies the desired logic or functionality. Based on this input, the model will generate the corresponding code."
+296,"CS5100 (Sec A - MW, 2:50 - 4:30)"," 
+1.	Recommendation System
+2.	Natural Language Processing
+3.	Rule-based systems
+4.	Deep learning
+5.	Gen AI",
+297,"CS5100 (Sec A - MW, 2:50 - 4:30)","1.Recommendation System
+2.Natural Language Processing
+3.Rule-based systems
+4.Deep learning
+5.Gen AI",
+300,"CS5100 (Sec A - MW, 2:50 - 4:30)","Probabilistic Modeling, Simulation, Monte Carlo, Reinforcement learning, quantitative finance, computer vision",Roulette Strategy simulator or multi-agent stock market predictor
+301,"CS5100 (Sec A - MW, 2:50 - 4:30)",Natural Language Processing,"I would like to develop an NLP usecase (examples include text-to-speech application, chatbot etc) using LLMs and RAGs"
+302,"CS5100 (Sec A - MW, 2:50 - 4:30)","Computer Vision, Natural Language Processing, Reinforcement Learning, Fuzzy Logic",
+307,"CS5100 (Sec A - MW, 2:50 - 4:30)","Computer Vision, Natural Language Processing",
+310,"CS5100 (Sec A - MW, 2:50 - 4:30)","Games, music, board games",No
+311,"CS5100 (Sec A - MW, 2:50 - 4:30)","1.RAG
+2.GraphRAG
+3.NLP",Answering system using RAG
+312,"CS5100 (Sec A - MW, 2:50 - 4:30)","natural language processing, reinforcement learning, games (Same priority) ",
+315,"CS5100 (Sec A - MW, 2:50 - 4:30)","computer vision, games, Intelligent Recommender System, NLP",
+316,"CS5100 (Sec A - MW, 2:50 - 4:30)","reinforcement learning, deep learning, genetic algorithms, graph neural networks, natural language processing, ",
+317,"CS5100 (Sec A - MW, 2:50 - 4:30)",1) computer vision,"Virtual Try-On: I want to develop an application where user can try on accessories and cloths viertually using their webcam. I know about glasses, there exist some company that uses this kind of idea for customer's satisfaction. I think this will be challanging, I don't know for the begineer is this suitable or not? "
+318,"CS5100 (Sec A - MW, 2:50 - 4:30)","NLP, LLM, DL, RL","Chatbot, virtual assistant, mental health and well-being AI, recommendation system"
+319,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing
+Prompt Engineering
+Reinforcement Learning
+Recurrent Neural Network",
+321,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Machine learning
+2. Deep learning
+3. Generative AI and RAG
+4. Natural Language Processing
+5. Reinforcement Learning
+6. Computer Vision
+7. Recommendation Systems","No, we are in search for projects ideas specifically in ML/DL."
+322,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Machine Learning 
+2. Deep Learning 
+3. Generative AI and RAG
+4. Natural Language Processing 
+5. Reinforcement learning 
+6. Computer Vision
+7. Recommendation Systems","No, we are yet to finalise one. We prefer to work on ML or DL."
+323,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language processing, Large Language models, Reinforcement Learning, Computer vision, ",I do not have a specific project idea yet
+324,"CS5100 (Sec A - MW, 2:50 - 4:30)","1. Machine leaming
+
+2. Deep learning
+
+3. Generative Al and RAG
+
+4. Natural Language Processing
+
+5. Reinforcement Learning
+
+6. Computer Vision
+
+7. Recommendation Systems","No, I'm still searching for the project ideas"
+326,"CS5100 (Sec A - MW, 2:50 - 4:30)","LLM, NLP, Reinforcement Learning",n/a
+328,"CS5100 (Sec A - MW, 2:50 - 4:30)","Natural Language Processing, Reinforcement Learning, Deep Learning, Machine Learning",No
+330,"CS5100 (Sec A - MW, 2:50 - 4:30)","computer vision
+natural language processing
+reinforcement learning","No, not yet"
+334,"CS5100 (Sec A - MW, 2:50 - 4:30)","LLms, Generative ai",Not currently
+335,"CS5100 (Sec A - MW, 2:50 - 4:30)",Games,
+43,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1 Natural language processing 
+2 Models  - Multimodal models & LLMS
+3 Search and information retrieval",
+46,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Natural Language Processing, Reinforcement Learning, Speech Recognition/Processing, Computer Vision",
+47,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Computer vision, recommendations, optimization, natural language processing, time series analysis",
+48,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Machine learning
+Natural language processing 
+Computer vision 
+Reinforcement learning 
+Recommendation systems ",Nothing as of now. I’ll have to think about it 
+49,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Reinforcement Learning
+
+Computer Vision
+
+Games ",
+50,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","natural language processing, games, computer vision, reinforcement learning",I have not decided yet
+51,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Games, computer vision, natural language processing",
+53,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","computer vision, games, reinforcement learning",
+54,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Reinforcement learning, computer vision, autonomous vehicles, sports analytics",N/A
+55,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","games
+reinforcement learning",
+57,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Natural Language Processing, Reinforcement Learning, Deep Learning",
+58,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","reinforcement learning, computer vision, games, NLP",
+64,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Computer vision, machine learning, natural language processing, robotics",Self-driving car (smaller level - maybe using a remote controlled car); Recommendation system (what to cook and how to cook it given specific ingredients)
+67,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. bioinformatics
+2. biostatistics
+3. game","Tumor Detection in Medical Imaging. Using CNN for image classification on MRI/CT scan, this is one application based on available dataset couldd be done for other diseases too"
+71,"CS5100 (Sec B - MWTh, 10:30 - 11:35)",I'm interested in natural language processing,I'm interested in intelligent assistants like Siri that can handle user commands. I've also noticed that some game developers are trying to incorporate this kind of interaction into their games to enrich the game world.
+76,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","reinforcement learning, NLP",No idea  
+77,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Computer Vision, Reinforcement Learning, GANs, Genetic Algorithms",
+78,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Deep Learning (Neural Networks), Image Classification, Computer Vision ","Cancer Detection using X-Rays, CT scans, MRI, etc."
+82,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Computer Vision, Predictive modeling, Sentiment Analysis",Emotion detection using machine learning (Mental Health analysis)
+89,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Computer Vision, Reinforcement Learning, Game Theory",No
+90,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","reinforcement learning , genetic algorithms, computer vision",
+98,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","RAGs, Knowledge Graphs, Computer Vision, Large Action Models, Reinforcement Learning, NLP", Using RAGs and Knowledge graphs to work with research papers; UI component detection and classification using CV(i.e. not relying on underlying html to recognize components); Maybe trading algorithms using RL; Intelliigent game agents;  
+99,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. NLP
+2. Computer Vision
+3. DL
+4. RL",An AI model that generates animated PPTs based on given notes (or even topic). Can be done using fine-tuned LLMs that processes the input content and writes code on the code sandbox for generating a PPT. (for e.g. reveal.js on a code sandbox)
+100,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1) Agents.
+2) Natural Language Processing
+3) Foundation Models",I think it would be fun to fine-tune a smaller (7B - 30B) open source LLM to perform better on agentic tasks. 
+106,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","games, natural language processing, reinforcement learning, computer vision",
+107,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","music processing, computer vision, deep learning","Use computer vision + deep learning to create a lip-reader, using facial movements as input/training data to decipher what a person is saying without audio. Using a deep learning model to separate a song into its different components (drums, vocals, guitar, etc). An AI-powered music composer to be used as sole pilot or co-pilot while composing novel music"
+108,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","reinforcement learning, music processing, computer vision, deep learning","an AI bot that is able to play Geoguessr (trained on geographical + street maps data), an AI-powered music composer which can be used to compose novel music belonging to certain styles or genres, sentiment analysis on SEC filings/financial news articles/social media to create stock predictions (inspired by https://github.com/arminapr/market-reader)"
+112,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Natural language processing, Games, Federated Learning",An automatic captioning model which identifies speakers in a video and provides subtitles accordingly. A federated learning model which can be used in a public sector application ensuring privacy of user data.
+114,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","natural language processing, Sentiment Analysis, Text Classification, Genetic Algorithms, computer vision, reinforcement learning",A music playlist generator based on text prompt that specifies the environment and current mood of the user. For instance a happy gathering of friends around the campfire would provide upbeat folk-like music.
+117,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","computer vision, natural language processing, web developing",
+118,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","reinforcement learning, computer vision, application of lite neural networks","Identify objects using computer vision and lite neural networks, and then think of some applications. "
+119,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","natural language processing, computer vision, reinforcement learning, games",
+120,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","NLP, Reinforcement Learning, Games, Computer Vision","I do have some previous experience with NLP and Computer Vision, I have a separate side project regarding computer vision and Glass Patterns (http://www.scholarpedia.org/article/Glass_patterns) so I could maybe work with that? Otherwise anything else is fine!"
+122,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. LLM's and Natural Language Processing
+2. Deep learning and computer vision
+3. Reinforcement learning
+",chatbot with a practical use case
+123,"CS5100 (Sec B - MWTh, 10:30 - 11:35)",Game AI,
+124,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","reinforcement learning, games, adversarial ML",no
+127,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Human Computer Interaction, Natural Language Processing, Computer Vision",
+129,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Reinforcement Learning, Natural Language Processing, Computer Vision, Games",No ideas yet
+131,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","reinforcement learning, computer vision, neural networks",
+134,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","CV, games, reinforcement learning, NLP",n/a
+137,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. Computer Vision (trying to gain more depth in this area through my Masters) 
+2. Natural Language Processing (have the most experience in)
+3. Reinforcement Learning (have done some work in not looking for full reinforcement learning projects)
+4. Games(please please don't put me in this tysm)",don't have anything particular in mind
+140,"CS5100 (Sec B - MWTh, 10:30 - 11:35)",NLP > CV > RL > games,none
+143,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Unsupervised Learning, Computer Vision, Genetic Algorithms, NLP,  Games, Reinforcement Learning, , ","Creating an image generation, from a sample prompt."
+144,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1) Computer Vision
+2) NLP
+3) Federated learning
+4) Games",
+145,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","recommendation systems, genetic algorithms, reinforcement learning, LLM's,  computer vision, everything else (it's all interesting to me)","Recreate GPT-2, Drone collision avoidance in Microsoft AirSim, AI recommendation system for ??? (see https://arxiv.org/pdf/2209.07663) "
+146,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. Neural Networks
+2. Deep Learning
+3. NLP
+
+Topic: Healthcare","Some predictive analysis of poor health outcomes. Mental health, COVID deaths, HF, etc.."
+148,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Machine Learning, Reinforcement Learning, Computer Vision, Games, Natural Language Processing ","1. An impaired driving detection software for cars that learns an individual's driving patterns and can detect when they may be too impaired to safely drive based on an outlier in driving pattern. 2. Red Sox season forecasting based on player statistic models. 3. For the game of golf, a model that advises the player on shot selection based on course conditions and player skill/tendencies."
+150,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Deep Learning
+
+Reinforcement Learning",No
+151,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","explaining particular decisions and predictions of AI models, visualization and communication of artificial intelligence model performance to non-experts, kolmogorov-arnold networks (KANs), reinforcement learning, active learning, federated learning, data fusion and integration, computer vision and sensing, hyperspectral imaging, multi-omic analysis","Reinforcement learning for adaptive control of manufacturing processes robust to variable quality input streams (allogeneic stem cell therapies and autologous cell therapies are my current domain expertise, but it can be applied to multiple domains); Active learning approaches for exploring experimental design spaces where data is expensive (current domain expertise would allow me to apply this for the process development of stem cell differentiation protocols or lipid nanoparticle formulations for gene delivery, but can be used for any type of iterative experimental research with a large design space); Can we generate synthetic single cell data? Using benchmark single cell multi-omic data like that found here (https://openproblems.bio/events/2021-09_neurips/) can we generate what a typical cell looks like? What does that tell us about what cells are?; Can we assess regions of proteins in terms of functional importance by carrying out ""in silico"" deep mutational scanning in a targeted manner and evaluating the global distance of predicted perturbed protein structures from predicted wild type structures?; I can and will probably think of more, and probably want to, as I do want to branch outside of biotechnology"
+154,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","reinforcement learning, games, Genetic Algorithms, NLP",
+163,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","I am interested in computer vision, natural language processing, games, reinforcement learning",I want to in future develop AI that can be used on wearable AI devices for example when people fall or organize people's daily life into a note. 
+165,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","NLP, Deep Learning, Genetic Algorithm",
+167,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Games, reinforcement learning, basic NLP.",
+168,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. Computer Vision
+2. Reinforcement Learning
+3. Games
+","Eye Tracking to perform ""slide-typing"" on a PC; NYT Spangram Solver Bot"
+174,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","CV(especially in medical or health field), LLM, Games",LLM used for mental health consulting
+181,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Healthcare, games, reinforcement learning",NO
+191,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","RAG, Computer Vision, NLP, Recommender Systems, Reinforcement Learning","RAG application for custom recipes based on available ingredients and cooking preferences, RAG for restaurant and meal preference recommendations"
+193,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Deep Learning, Computer Vision, Natural Language Processing.",
+196,"CS5100 (Sec B - MWTh, 10:30 - 11:35)",NLP,NLP on customer review analysis 
+198,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Natural Language Processing, Reinforcement Learning, Games",
+201,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Deep Learning 
+Computer Vision 
+Natural Language Processing
+Adversarial Machine Learning",
+203,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Natural Language Processing, Reinforcement Learning, Games, Robotics related, Deep Learning",
+207,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","computer vision, autonomous navigation, depth estimation",
+209,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","natural language processing ,reinforcement learning , computer vision, ",none 
+210,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","NLP
+Reinforcement learning 
+",
+211,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Natural Language Processing, Computer Vision,  Reinforcement Learning",-
+215,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1st: Games, 2nd: NLP, all tied for 3rd: reinforcement learning| healthcare| neural networks| generative AI",
+218,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Games, reinforcement learning, GAN, Adversarial ML, Genetic Algorithm",
+228,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1) Machine learning (Computer Vision/ NLP)
+2) Reinforcement learning",No.
+230,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Deep learning, Big data analysis, Fintech",
+231,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","NLP, Computer Vision, Games, LLMs",No :(
+232,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Computer Vision, Vision Transformers, NLP, Autonomous Navigation, Path Planning, Large Language Models, Games, Reinforcement Learning",AI-based navigation for self-driving (not sure how to implement this)
+235,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Adversarial, reinforcement learning, computer vision, natural language processing",
+236,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Re-enforced learning
+Supervised learning
+Deep Neural Nets","Introducing AI for intelligent and 'safe' operating systems, Transformer based approach for Intelligent systems [Vaswani, A. (2017). Attention is all you need. Advances in Neural Information Processing Systems] for debugging multithreaded applications"
+237,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","LLM/NLP and Information retrieval, Computer Vision, reinforcement learning",A LLM that is able to retrieve up-to-date and relevant context to produce an answer 
+239,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. AI for Social Good
+2. Conversational AI (Chatbots, Dialogue Systems)
+3. games
+4. NLP",
+240,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Computer vision, reinforcement learning, games ",I have a strong interest in aviation. I understand that there are a lot of applications with using artificial intelligence for avionics / autopilot for unmanned autonomous systems as well as manned planes. If anyone else has an interest in this I would love to work on it as a project. (Even different professors at the school for a thesis later!). 
+244,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Games, Computer Vision, NLP",
+245,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1-Games
+2-RL
+3-NLP",
+248,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Deep learning
+Computer vision
+Reinforcement Learning
+Natural Language Processing",
+249,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Deep Learning
+Computer Vision
+Reinforcement Learning
+Natural Language Processing",
+250,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Deep learning
+Computer vision
+Natural language processing
+Reinforcement learning",No
+251,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Deep learning 
+computer vision
+Reinforcement learning
+Natural language Processing",
+252,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Games, Music, Natural Language Processing.",No.
+255,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Large Language Model, Natural Language processing, Games",Chatbot for Customer Service
+263,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","machine learning, transformers, generative adversarial networks, computer vision, and natural language processing.",An ANN model that generates text/ transcript by reading lips from muted videos.
+286,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","expert systems, computer vision, NLP (spam detection, sentiment analysis), fuzzy logic",
+288,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Natural Language Processing, Computer Vision, Games","I'd like to do a project that would assist kids with dyslexia and ADHD, My idea is basically to create games that would make learning fun and engaging for them and at the same time improve their overall skills ."
+291,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","computer vision, games, pattern recognition, etc.",
+303,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Computer Vision, Image Processing, Saliency, spatial understanding, Fixation Prediction","Coming up with a solution to solve the problem of Saliency Detection/ Fixation Prediction(identifies the most important parts of an image or scene). Usecase for these include: generating smart crop from images, Deciding thumbnails from videos, robot navigation."
+304,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Natural Language Processing
+Computer Vision
+","A tentative road map but essentially he project aims to enhance retrieval performance in large tabular data lakes by combining Knowledge Graphs with a Retrieval-Augmented Generation (RAG) framework. It will focus on accurately identifying the top-k most relevant tables based on a user query and constructing an optimized JOIN query (Or any data retrieval query). We will use the relationships between tables encoded in Knowledge Graphs, our project idea will aim to improve the precision and efficiency of table selection, resulting in faster and more accurate data retrieval."
+305,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","computer vision, games, pattern recognition",
+306,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Natural Language Processing(NLP), Computer Vision","The project idea essentially aims to enhance retrieval performance in large tabular data lakes by combining Knowledge Graphs with a Retrieval-Augmented Generation (RAG) framework. It will focus on accurately identifying the top-k most relevant tables and data from the lake based on a user query and constructing an optimized JOIN query (Or any data retrieval query). We will use the relationships between tables encoded in Knowledge Graphs, our project idea will aim to improve the precision and efficiency of data and table selection, resulting in faster and more accurate data retrieval."
+309,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","robotics
+healthcare
+automation",
+313,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. Reinforcement learning
+2. Generative ai
+3. Computer vision
+4. AI in finance",n/a
+314,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1) Reinforcement Learning
+2) Deep Learning
+3) Game Playing agents
+4) MDP",
+320,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. reinforcement learning
+2. generative ai
+3. AI in finance
+4. computer vision",
+325,"CS5100 (Sec B - MWTh, 10:30 - 11:35)",reinforcement learning,
+327,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","1. Games
+2. Natural Language Processing",NA
+329,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","NLP,games,reinforcement learning",
+331,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","games, reinforment learning, neural networking/deep learning, computer vision, nlp",
+332,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","Reinforcement Learning, NLP",No
+333,"CS5100 (Sec B - MWTh, 10:30 - 11:35)","robotic application
+Autonomous navigation
+computer vision",autonomous navigation of mobile robot in warehouse.
